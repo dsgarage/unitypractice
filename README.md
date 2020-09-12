@@ -16,7 +16,10 @@
 * 何かコミット→プッシュしてプルリクを作成
 * 準備完了
 
+## Windowsでプッシュするとエラーが出る
 
+https://hacknote.jp/archives/56523/
+https://hacknote.jp/archives/56513/
 
 
 
