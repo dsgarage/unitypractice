@@ -16,9 +16,15 @@
 * 何かコミット→プッシュしてプルリクを作成
 * 準備完了
 
-## Windowsでプッシュするとエラーが出る
 
+
+## Windowsでのgit設定
+https://www.karakaram.com/git-install/#check-sshkey <br>
+<br>
+GitHubに公開鍵認証方式でSSH接続する<br>
 https://hacknote.jp/archives/56523/<br>
+<br>
+git pushでエラーが出たのでssh接続するための設定を行った<br>
 https://hacknote.jp/archives/56513/<br>
 
 
