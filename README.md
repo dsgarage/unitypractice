@@ -19,6 +19,10 @@
 
 
 ## Windowsでのgit設定
+
+WindowsでGitを始めたらまず確認！Git Bashの設定&ショートカット
+https://www.granfairs.com/blog/staff/gitbash-setting-shortcut
+
 https://www.karakaram.com/git-install/#check-sshkey <br>
 <br>
 GitHubに公開鍵認証方式でSSH接続する<br>
