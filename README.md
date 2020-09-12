@@ -4,6 +4,21 @@
 ・インターフェースの実装
 ・DI<br>
 ・抽象化<br>
+
+
+## Gitでまずやる事
+
+* 新規リポジトリの設定
+* 設定したリポジトリをプルかフェッチをする
+* gitfllowの初期化(SorceTree)
+* GitHubに戻って、Issueに作業内容を書く
+* Issue番号でフューチャーリポジトリを作成
+
+
+
+
+
+
 <br><br>
 ## 拡張メソッド
 https://ufcpp.net/study/csharp/fun_WhyExtensions.html<br>
