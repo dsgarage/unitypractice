@@ -1,9 +1,9 @@
 # Unity Practice
 
-・拡張メソッド<br>
-・インターフェースの実装
-・DI<br>
-・抽象化<br>
+* 拡張メソッド
+* インターフェースの実装
+* DI
+* 抽象化
 
 
 ## Gitでまずやる事
@@ -18,8 +18,8 @@
 
 ## Windowsでプッシュするとエラーが出る
 
-https://hacknote.jp/archives/56523/
-https://hacknote.jp/archives/56513/
+https://hacknote.jp/archives/56523/<br>
+https://hacknote.jp/archives/56513/<br>
 
 
 
