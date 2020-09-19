@@ -30,6 +30,20 @@ https://hacknote.jp/archives/56523/<br>
 <br>
 git pushでエラーが出たのでssh接続するための設定を行った<br>
 https://hacknote.jp/archives/56513/<br>
+<br>
+git bashに「cd 」を入力し、プロジェクトファイルをドラッグ＆ドロップ<br>
+Enter<br>
+「vim config」と入力<br>
+Enter<br>
+Host github github.com<br>
+  HostName github.com<br>
+  IdentityFile ←ここに自分の作成した秘密鍵「id_rsa.pub」をD&D<br>
+  User git<br>
+入力したらEsc →　「:wq」の順に入力<br>
+Enter<br>
+(なぜか上書きされない場合があるので、その場合は直接id_rsa.pubをメモ帳として開き書き換える)<br>
+「ssh -T github」と入力」<br>
+Enter<br>
 
 
 
